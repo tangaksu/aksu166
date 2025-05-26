@@ -1,0 +1,32 @@
+/* aksu defense 后台样式 */
+.wpss-card {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px #ddd;
+    display: inline-block;
+    min-width: 150px;
+    text-align: center;
+    padding: 20px 30px;
+}
+.wpss-card h2 {
+    margin: 0 0 10px 0;
+    font-size: 2rem;
+}
+.wpss-section-title {
+    font-size: 1.15em;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
+}
+.wpss-card p {
+    color: #666;
+    font-size: 1em;
+}
+form .description {
+    color: #888;
+    font-size: 0.95em;
+}
+table.widefat.fixed th, table.widefat.fixed td {
+    font-size: 14px;
+}
